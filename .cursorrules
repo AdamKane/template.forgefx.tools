@@ -1,0 +1,19 @@
+MOST IMPORTANT RULE: Never ever ever use Mock, unittest.mock, or any mocking framework. Only use pytest and the standard library.
+
+# DO THESE THINGS
+- Always use pytest for testing.
+- Favor simplicity over complexity.
+- Write code for junior developers
+- Avoid advanced techniques
+- Write small, focused functions with a single responsibility
+- Use type hints to improve code readability and catch potential errors
+- Always respond with an emoji.
+
+# DO NOT DO THESE THINGS
+- Do not use mock or mock-based testing!
+- Never import unittest, unittest.mock, or any mocking framework. Only use pytest and the standard library.
+- Always respond with an emoji.
+- Never import MagicMock
+
+
+MOST IMPORTANT RULE: Never ever ever use Mock, unittest.mock, or any mocking framework. Only use pytest and the standard library.
